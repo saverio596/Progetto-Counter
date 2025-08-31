@@ -1,6 +1,6 @@
 # 📊 Counter App
 
-Una semplice applicazione **Counter** realizzata con **HTML, CSS e JavaScript**.  
+Una semplice applicazione **Counter** realizzata con **HTML, LESS e JavaScript**.  
 L’app permette di incrementare, decrementare e resettare un contatore tramite pulsanti interattivi.
 
 ---
@@ -9,7 +9,7 @@ L’app permette di incrementare, decrementare e resettare un contatore tramite 
 - ➕ **Incremento**: aumenta il valore del contatore.
 - ➖ **Decremento**: diminuisce il valore del contatore.
 - 🔄 **Reset**: riporta il contatore a zero.
-- 🎨 **UI Responsive**: layout centrato e stilizzato con **CSS**.
+- 🎨 **UI Responsive**: layout centrato e stilizzato con **LESS**.
 
 ---
 
