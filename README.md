@@ -1,18 +1,23 @@
-# 🧮 Progetto Counter
+# 📊 Counter App
 
-Un semplice progetto in **JavaScript** che implementa un **contatore interattivo**.  
-Il contatore parte da **0** e tramite i pulsanti è possibile:
-- ➕ Incrementare il valore
-- ➖ Decrementare il valore
-- 🔄 Resettare il contatore a zero
+Una semplice applicazione **Counter** realizzata con **HTML, CSS e JavaScript**.  
+L’app permette di incrementare, decrementare e resettare un contatore tramite pulsanti interattivi.
 
 ---
 
-##  Funzionalità  
-- Interfaccia chiara e intuitiva  
-- Contatore dinamico con tre operazioni principali: incrementa, decrementa, resetta
+## 🚀 Funzionalità
+- ➕ **Incremento**: aumenta il valore del contatore.
+- ➖ **Decremento**: diminuisce il valore del contatore.
+- 🔄 **Reset**: riporta il contatore a zero.
+- 🎨 **UI Responsive**: layout centrato e stilizzato con **CSS**.
 
 ---
+
+## 📂 Struttura del progetto
+/assets
+├── style.css # Stili CSS
+├── script.js # Logica JavaScript
+index.html # Struttura principale della pagina
 
 ##  Installazione
 
