@@ -15,7 +15,7 @@ L’app permette di incrementare, decrementare e resettare un contatore tramite 
 
 ## 📂 Struttura del progetto
 /assets
-├── style.css # Stili CSS
+├── style.less # Stile Less
 ├── script.js # Logica JavaScript
 ├── favicon.png # Favicon
 index.html # Struttura principale della pagina
